@@ -6,3 +6,5 @@ The main bug is negative numbers.
 ![][calcImage]
 
 [calcImage]: ./Calculator55C%23/calculatorShow.png
+
+(it was edited on may 8th for around 10 minutes just to make it look slightly more professional)
